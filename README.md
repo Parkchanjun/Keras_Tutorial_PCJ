@@ -5,7 +5,7 @@ Deep Learning Tutorial Using Keras Part01 - Basic (Keras로 배우는 딥러닝 
 Colab에서 실행시켜 주세요.
 
 
-## 제작자: Park Chanjun (박찬준) <br>
-## 소속: Korea University Natural Language Processing & Artificial Intelligence Lab (고려대학교 자연언어처리&인공지능 연구실)<br>
-## Email: bcj1210@naver.com<br>
+제작자: Park Chanjun (박찬준) <br>
+소속: Korea University Natural Language Processing & Artificial Intelligence Lab (고려대학교 자연언어처리&인공지능 연구실)<br>
+Email: bcj1210@naver.com<br>
 ## 참고자료: 케라스 창시자에게 배우는 딥러닝
