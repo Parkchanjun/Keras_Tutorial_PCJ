@@ -1,7 +1,7 @@
 # Keras_Tutorial_PCJ
 Deep Learning Tutorial Using Keras Part01 - Basic (Keras로 배우는 딥러닝 튜토리얼 Part01 기초편)
 
-인공지능, 머신러닝, 딥러닝에 기초 개념에 대해서 이론 뿐만 아니라 Keras 코드로 학습할 수 있게 만든 초보자를 위한 Tutorial
+인공지능, 머신러닝, 딥러닝에 기초 개념에 대해서 이론 뿐만 아니라 Keras 코드로 학습할 수 있게 만든 초보자를 위한 Tutorial 입니다. <br>
 Colab에서 실행시켜 주세요.
 
 
